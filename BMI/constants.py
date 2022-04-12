@@ -1,0 +1,12 @@
+GENDER_INPUT_KEY = "Gender"
+HEIGHT_CM_INPUT_KEY = "HeightCm"
+WEIGHT_INPUT_KEY = "WeightKg"
+
+INPUT_FILE_NAME = "bmi_raw_data"
+
+OVER_WEIGHT_BMI_CATEGORY = "Overweight"
+UNDER_WEIGHT_BMI_CATEGORY = "Underweight"
+NORMAL_WEIGHT_BMI_CATEGORY = "Normal weight"
+MODERATELY_OBESE_BMI_CATEGORY = "Moderately obese"
+SEVERELY_OBESE_BMI_CATEGORY = "Severely obese"
+VERY_SEVERELY_OBESE_BMI_CATEGORY = "Very severely obese"
